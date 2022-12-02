@@ -1,46 +1,37 @@
-<a name="readme-top"></a>
+## :hammer: Built With
 
-<div align="center">
+- HTML and CSS
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+To get a local copy up and running follow these simple steps:
 
-  <h3><b>Microverse README Template</b></h3>
+1. Go to the [repository page](https://github.com/ArthurGC/portfolio-microverse](https://github.com/djo1975/Portfolio-setup-and-mobile-first).
+2. Press the "Code" button and copy the link.
+3. Clone it using git command `git clone <link>`.
 
-</div>
+## :blue_book: Learning Objectives
 
-<!-- TABLE OF CONTENTS -->
+- Understand how to parse a Figma design to create a UI.
+- Flexbox to place elements in the page.
+- Build a personal portfolio site.
+- Use images and backgrounds to enhance the look of the website.
 
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-- [👥 Authors](#authors)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [Portfolio-setup-and-mobile-first] <a name="about-project"></a>
-
-For the first milestone in the process of creating your portfolio website, you will: set up a new repository and prepare it for development using best practices (e.g. linters). build the first 2 sections of the mobile website using the template you chose in the previous step.
-
-
-## 👥 Author <a name="authors"></a>
-
+## Authors
 
 👤 **Mladan**
 
-- GitHub: [@djo1975](https://github.com/djo1975)
-g
+- GitHub: [@ArthurGC](https://github.com/djo1975)
 
 
+## 🤝 :raised_hand: :raised_hand: Contributions
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page]([https://github.com/ArthurGC/portfolio-microverse/issues](https://github.com/djo1975/Portfolio-setup-and-mobile-first/issues)).
 
-## 📝 License <a name="license"></a>
+## Acknowledgments
 
-This project is [MIT](./LICENSE) licensed.
+- Thanks to Microverse
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+## 📝 License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](LICENSE) licensed.

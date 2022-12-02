@@ -32,7 +32,7 @@ header {
   user-select: none;
 }
 
-h1{
+h1 {
   width: 327px;
   height: 150px;
   font-family: 'Poppins', sans-serif;
@@ -48,7 +48,7 @@ h1{
   flex-grow: 0
 }
 
-p{
+p {
   width: 327px;
   height: 146px;
   font-family: 'Poppins', sans-serif;
@@ -62,7 +62,7 @@ p{
   flex-grow: 0;
 }
 
-a{
+a {
   width: 117px;
   height: 24px;
   font-family: 'Poppins', sans-serif;

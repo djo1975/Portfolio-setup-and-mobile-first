@@ -4,7 +4,7 @@
 
 To get a local copy up and running follow these simple steps:
 
-1. Go to the [repository page](https://github.com/ArthurGC/portfolio-microverse](https://github.com/djo1975/Portfolio-setup-and-mobile-first).
+1. Go to the [repository page](https://github.com/djo1975/Portfolio-setup-and-mobile-first).
 2. Press the "Code" button and copy the link.
 3. Clone it using git command `git clone <link>`.
 
@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple steps:
 
 👤 **Mladan**
 
-- GitHub: [@ArthurGC](https://github.com/djo1975)
+- GitHub: [@djo1975](https://github.com/djo1975)
 
 
 ## 🤝 :raised_hand: :raised_hand: Contributions

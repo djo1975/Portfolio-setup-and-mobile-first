@@ -44,9 +44,9 @@ h6 {
 }
 
 .c-b-2015-ul {
-display: flex;
-gap: 30px;
-color: #7a869a;
+  display: flex;
+  gap: 30px;
+  color: #7a869a;
 }
 
 .prog-lang {
@@ -108,7 +108,7 @@ color: #7a869a;
   border-radius: 8px;
   align-self: center;
   margin-top: 10px;
-  }
+}
 
 .portofolio-img-4 {
   background-image: url("portofolio-img-4.svg");
@@ -117,4 +117,4 @@ color: #7a869a;
   border-radius: 8px;
   align-self: center;
   margin-top: 10px;
-  }
+}
